@@ -1,11 +1,11 @@
 # test-mocha_chai
 
 ## install
-```js
+```shell
 npm install
 ```
 
 ## run
-```js
+```shell
 mocha test/test-case/test.js
 ```
